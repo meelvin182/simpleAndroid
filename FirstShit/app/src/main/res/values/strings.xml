@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstShit</string>
+    <string name="edit_message">Edit the message</string>
+    <string name="button_send">send</string>
+</resources>
